@@ -1,0 +1,31 @@
+representative,doctor,division,date,call_type,outcome,product,location
+John Doe,Dr. Smith,Cardiology,2024-01-15,In-person,Positive,CardioMed Pro,New York
+Jane Smith,Dr. Jones,Oncology,2024-01-15,Virtual,Positive,OncoCare Plus,Boston
+Bob Johnson,Dr. Brown,Cardiology,2024-01-16,In-person,Follow-up needed,CardioMed Pro,New York
+Alice Williams,Dr. Davis,Neurology,2024-01-16,Phone,Positive,NeuroFix,Chicago
+John Doe,Dr. Wilson,Cardiology,2024-01-17,In-person,Positive,CardioMed Pro,New York
+Jane Smith,Dr. Smith,Oncology,2024-01-17,Virtual,Neutral,OncoCare Plus,Boston
+Bob Johnson,Dr. Taylor,Gastroenterology,2024-01-18,In-person,Positive,GastroEase,New York
+Alice Williams,Dr. Moore,Neurology,2024-01-18,In-person,Positive,NeuroFix,Chicago
+John Doe,Dr. Anderson,Cardiology,2024-01-19,Phone,Follow-up needed,CardioMed Pro,New York
+Jane Smith,Dr. Thomas,Oncology,2024-01-19,Virtual,Positive,OncoCare Plus,Boston
+Bob Johnson,Dr. Smith,Cardiology,2024-01-20,In-person,Positive,CardioMed Pro,New York
+Alice Williams,Dr. Jackson,Neurology,2024-01-20,In-person,Positive,NeuroFix,Chicago
+John Doe,Dr. White,Orthopedics,2024-01-22,In-person,Positive,OrthoPro,New York
+Jane Smith,Dr. Harris,Oncology,2024-01-22,Virtual,Positive,OncoCare Plus,Boston
+Bob Johnson,Dr. Martin,Cardiology,2024-01-23,In-person,Neutral,CardioMed Pro,New York
+Alice Williams,Dr. Thompson,Neurology,2024-01-23,Phone,Positive,NeuroFix,Chicago
+John Doe,Dr. Garcia,Cardiology,2024-01-24,In-person,Positive,CardioMed Pro,New York
+Jane Smith,Dr. Martinez,Oncology,2024-01-24,Virtual,Follow-up needed,OncoCare Plus,Boston
+Bob Johnson,Dr. Robinson,Gastroenterology,2024-01-25,In-person,Positive,GastroEase,New York
+Alice Williams,Dr. Clark,Neurology,2024-01-25,In-person,Positive,NeuroFix,Chicago
+John Doe,Dr. Rodriguez,Cardiology,2024-01-26,In-person,Positive,CardioMed Pro,New York
+Jane Smith,Dr. Lewis,Oncology,2024-01-26,Virtual,Positive,OncoCare Plus,Boston
+Bob Johnson,Dr. Lee,Cardiology,2024-01-27,Phone,Positive,CardioMed Pro,New York
+Alice Williams,Dr. Walker,Neurology,2024-01-27,In-person,Positive,NeuroFix,Chicago
+John Doe,Dr. Hall,Orthopedics,2024-01-29,In-person,Neutral,OrthoPro,New York
+Jane Smith,Dr. Allen,Oncology,2024-01-29,Virtual,Positive,OncoCare Plus,Boston
+Bob Johnson,Dr. Young,Cardiology,2024-01-30,In-person,Positive,CardioMed Pro,New York
+Alice Williams,Dr. King,Neurology,2024-01-30,In-person,Follow-up needed,NeuroFix,Chicago
+John Doe,Dr. Wright,Cardiology,2024-01-31,In-person,Positive,CardioMed Pro,New York
+Jane Smith,Dr. Scott,Oncology,2024-01-31,Virtual,Positive,OncoCare Plus,Boston
