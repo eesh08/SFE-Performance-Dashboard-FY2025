@@ -69,3 +69,5 @@ Uniform chart formatting
 Transparent chart backgrounds
 Proper alignment & spacing
 
+Youtube Walkthrough Video: https://youtu.be/X0L9kro5zXA 
+
